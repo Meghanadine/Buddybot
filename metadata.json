@@ -1,0 +1,5 @@
+{
+  "name": "Copy of buddybot",
+  "description": "An intelligent HR agent that screens resumes against job descriptions, providing instant match scores and candidate summaries using Gemini 2.5.",
+  "requestFramePermissions": []
+}
